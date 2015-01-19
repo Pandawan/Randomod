@@ -21,7 +21,7 @@ public class PandaCoins {
 	public static CommonProxy proxy;
 	
 	
-	public static CreativeTabs tabCoins = new tabCoins(CreativeTabs.getNextID(), "tabCoins");
+	public static CreativeTabs tabCoins = new tabCoins("tabCoins");
 	
 	
 	

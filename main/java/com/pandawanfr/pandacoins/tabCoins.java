@@ -7,8 +7,9 @@ import com.pandawanfr.pandacoins.init.PCItems;
 
 public class tabCoins extends CreativeTabs{
 	
-	public tabCoins(int par1, String par2Str) {
-		super(par1, par2Str);
+	public tabCoins(String par2Str) {
+		super(par2Str);
+		this.setBackgroundImageName("background.png");
 		
 	}
 	
