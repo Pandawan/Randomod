@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "pc:atm" },
+        "facing=south": { "model": "pc:atm", "y": 180 },
+        "facing=west":  { "model": "pc:atm", "y": 270 },
+        "facing=east":  { "model": "pc:atm", "y": 90 }
+    }
+}

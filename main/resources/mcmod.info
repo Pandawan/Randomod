@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pc",
+  "name": "PandaCoin mod",
+  "description": "A mod that adds economy to Minecraft!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "PandawanFr",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
