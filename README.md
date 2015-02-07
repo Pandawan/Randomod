@@ -1,5 +1,7 @@
- PCMod - Pandawan's Coins Mod
+Randomod - The most Random Mod ever!
 ------------------------------
+
+This mod bascially adds new blocks, items... That I want in Minecraft, or that other people could want, or sometimes just things that I like.
 
 Source code for my 1.8 Mod, curently in development...
 
