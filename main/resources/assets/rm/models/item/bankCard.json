@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "pc:items/coin"
+        "layer0": "rm:items/bankCard"
     },
     "display": {
         "thirdperson": {

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "rm:atm" },
+        "facing=south": { "model": "rm:atm", "y": 180 },
+        "facing=west":  { "model": "rm:atm", "y": 270 },
+        "facing=east":  { "model": "rm:atm", "y": 90 }
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "parent": "pc:block/atm",
+    "parent": "rm:block/atm",
     "display": {
         "thirdperson": {
             "rotation": [ 10, -45, 170 ],

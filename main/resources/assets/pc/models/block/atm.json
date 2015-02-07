@@ -1,8 +1,0 @@
-{
-    "parent": "block/orientable",
-    "textures": {
-        "top": "pc:blocks/atm_side",
-        "front": "pc:blocks/atm_front",
-        "side": "pc:blocks/atm_side"
-    }
-}

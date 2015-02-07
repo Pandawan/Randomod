@@ -1,4 +1,4 @@
-package com.pandawanfr.pandacoins.items;
+package com.pandawanfr.randomod.items;
 
 import java.util.List;
 import java.util.Random;
@@ -11,7 +11,7 @@ import net.minecraft.util.ChatComponentText;
 import net.minecraft.util.EnumChatFormatting;
 import net.minecraft.world.World;
 
-import com.pandawanfr.pandacoins.PandaCoins;
+import com.pandawanfr.randomod.Randomod;
 
 public class bankCard extends Item{
 	
@@ -22,7 +22,7 @@ public class bankCard extends Item{
 	
 	public bankCard(){
 		setUnlocalizedName("bankCard");
-		setCreativeTab(PandaCoins.tabCoins);
+		setCreativeTab(Randomod.tabRandom);
 	}
 		
 	

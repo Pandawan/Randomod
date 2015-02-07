@@ -1,13 +1,13 @@
-package com.pandawanfr.pandacoins;
+package com.pandawanfr.randomod;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
-import com.pandawanfr.pandacoins.init.PCItems;
+import com.pandawanfr.randomod.init.RandomItems;
 
-public class tabCoins extends CreativeTabs{
+public class tabRandom extends CreativeTabs{
 	
-	public tabCoins(String par2Str) {
+	public tabRandom(String par2Str) {
 		super(par2Str);
 		this.setBackgroundImageName("background.png");
 		
@@ -15,6 +15,6 @@ public class tabCoins extends CreativeTabs{
 	
 	@Override
 	public Item getTabIconItem(){
-		return PCItems.coin;
+		return RandomItems.coin;
 	}
 }

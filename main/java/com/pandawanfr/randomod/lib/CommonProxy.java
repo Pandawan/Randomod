@@ -1,4 +1,4 @@
-package com.pandawanfr.pandacoins.lib;
+package com.pandawanfr.randomod.lib;
 
 public class CommonProxy {
 	

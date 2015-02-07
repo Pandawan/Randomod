@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "rm:blocks/atm_side",
+        "front": "rm:blocks/atm_front",
+        "side": "rm:blocks/atm_side"
+    }
+}

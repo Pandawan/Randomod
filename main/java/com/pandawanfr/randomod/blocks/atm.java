@@ -1,4 +1,4 @@
-package com.pandawanfr.pandacoins.blocks;
+package com.pandawanfr.randomod.blocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -13,7 +13,7 @@ import net.minecraft.util.BlockPos;
 import net.minecraft.util.EnumFacing;
 import net.minecraft.world.World;
 
-import com.pandawanfr.pandacoins.PandaCoins;
+import com.pandawanfr.randomod.Randomod;
 
 public class atm extends Block{
 	
@@ -25,13 +25,11 @@ public class atm extends Block{
 		super(materialIn);
 		
 		this.setUnlocalizedName("atm");
-		this.setCreativeTab(PandaCoins.tabCoins);
+		this.setCreativeTab(Randomod.tabRandom);
 		
         this.setDefaultState(this.blockState.getBaseState().withProperty(FACING, EnumFacing.NORTH));		
 
 	}
-	
-	
 	
 	
 	//Facing Parts...

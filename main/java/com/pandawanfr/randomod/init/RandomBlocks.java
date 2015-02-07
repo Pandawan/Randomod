@@ -1,4 +1,4 @@
-package com.pandawanfr.pandacoins.init;
+package com.pandawanfr.randomod.init;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -7,11 +7,10 @@ import net.minecraft.client.resources.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
-import com.pandawanfr.pandacoins.PandaCoins;
-import com.pandawanfr.pandacoins.blocks.atm;
-import com.pandawanfr.pandacoins.lib.References;
+import com.pandawanfr.randomod.blocks.atm;
+import com.pandawanfr.randomod.lib.References;
 
-public class PCBlocks {
+public class RandomBlocks {
 	
 	
 	public static Block atm;

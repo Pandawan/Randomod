@@ -1,15 +1,15 @@
-package com.pandawanfr.pandacoins.init;
+package com.pandawanfr.randomod.init;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
-import com.pandawanfr.pandacoins.PandaCoins;
-import com.pandawanfr.pandacoins.items.bankCard;
-import com.pandawanfr.pandacoins.lib.References;
+import com.pandawanfr.randomod.Randomod;
+import com.pandawanfr.randomod.items.bankCard;
+import com.pandawanfr.randomod.lib.References;
 
-public class PCItems {
+public class RandomItems {
 	
 	public static Item coin;
 	public static Item bankCard;
@@ -18,7 +18,7 @@ public class PCItems {
 	
 	public static void init(){
 		
-		coin = new Item().setUnlocalizedName("coin").setCreativeTab(PandaCoins.tabCoins);
+		coin = new Item().setUnlocalizedName("coin").setCreativeTab(Randomod.tabRandom);
 		bankCard = new bankCard();
 		
 	}
